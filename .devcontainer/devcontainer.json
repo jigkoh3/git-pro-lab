@@ -1,0 +1,8 @@
+{
+  "name": "Git Lab",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/git:1": {}
+  },
+  "postCreateCommand": "echo 'Ready to git!'"
+}
