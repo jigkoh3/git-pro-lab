@@ -1,0 +1,19 @@
+
+site_name: Git Zero to Hero
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: indigo
+nav:
+  - หน้าแรก: index.md
+  - Labs:
+    - Beginner Amend: labs/beginner-amend.md
+    - Beginner Init Commit: labs/beginner-init-commit.md
+    - Beginner Restore: labs/beginner-restore.md
+    - Branch Conflict Lab: labs/branch-conflict-lab.md
+    - Cherry Pick Lab: labs/cherry-pick-lab.md
+    - Merge Conflict Lab: labs/merge-conflict-lab.md
+    - Rebase Clean: labs/rebase-clean.md
+    - Reflog Rescue: labs/reflog-rescue.md
+    - Reset Vs Revert: labs/reset-vs-revert.md
